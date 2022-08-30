@@ -1,4 +1,5 @@
 class TV:
+    #this
     numTV = 0
     def __init__(self, marca,estado):
         self.marca = marca

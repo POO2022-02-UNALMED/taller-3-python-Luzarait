@@ -1,6 +1,6 @@
 package taller3.televisores;
 
-
+#this
 public class Control {
     private TV tv;
     public int canal1;
